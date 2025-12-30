@@ -1,0 +1,2 @@
+# paypaycsv2mfchunks
+PayPayからDLした明細CSVをMoneyForwardの100行制限に合わせて分割するオフラインツール
